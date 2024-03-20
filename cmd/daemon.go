@@ -103,10 +103,10 @@ func childHandler() {
 		Username:           daemonUsername,
 		Password:           daemonPassword,
 		N:                  "200",
-		AcID:               "1",
+		AcID:               "67",
 		Enc:                "srun_bx1",
 		VType:              "1",
-		LoginPageURL:       "https://gw.buaa.edu.cn/srun_portal_pc?ac_id=1&theme=buaa",
+		LoginPageURL:       "https://gw.buaa.edu.cn/srun_portal_pc?ac_id=67&theme=buaa",
 		GetChallengeApiURL: "https://gw.buaa.edu.cn/cgi-bin/get_challenge",
 		LoginApiURL:        "https://gw.buaa.edu.cn/cgi-bin/srun_portal",
 	})
